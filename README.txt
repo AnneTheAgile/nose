@@ -1,7 +1,6 @@
-
 Basic usage
 ***********
-
+#741
 Use the nosetests script (after installation by setuptools):
 
    nosetests [options] [(optional) test files or directories]
